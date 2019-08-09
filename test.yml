@@ -1,7 +1,7 @@
 
 ---
 server:
-    port: 8282
+    port: 8585
 spring:
     application:
         name: test
