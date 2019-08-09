@@ -1,0 +1,18 @@
+spring:
+    profiles:
+        active: test1
+---
+server:
+    port: 8282
+spring:
+    application:
+        name: test
+    profiles: test1
+ 
+---
+server:
+    port: 8282
+spring:
+    application:
+        name: test
+    profiles: test1
