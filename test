@@ -1,0 +1,11 @@
+spring.profiles.active=test1
+
+---
+spring.profiles=test1
+server.port=8282
+spring.application.name=name-8281
+
+---
+spring.profiles=test2
+server.port=8383
+spring.application.name=name-8383
